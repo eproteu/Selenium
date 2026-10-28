@@ -1,0 +1,11 @@
+Relatório - 28/10/2026 08:43
+
+FALHA https://www.devbueno.com.br
+    - Link quebrado (404): https://www.devbueno.com.br/selecoes.html
+FALHA https://books.toscrape.com/unesp.html
+    - Texto suspeito na página: '404'
+    - JS: https://www.devbueno.com.br/favicon.ico - Failed to load resource: the server responded with a status of 404 ()
+    - JS: https://api.countapi.xyz/hit/devbueno-portfolio/visitas - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+    - JS: https://books.toscrape.com/unesp.html - Failed to load resource: the server responded with a status of 404 ()
+
+Total de problemas: 5
